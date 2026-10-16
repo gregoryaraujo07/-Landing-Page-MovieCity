@@ -30,4 +30,4 @@ Adicione uma captura de tela da landing page nesta seção para demonstrar o res
 
 Desenvolver uma landing page temática para praticar conceitos de desenvolvimento front-end, estilização e construção de interfaces web.
 
-Desenvolvido por SEU NOME 💻
+
